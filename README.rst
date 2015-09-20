@@ -9,8 +9,8 @@ the edition of September/October 2015
 Check the `wiki <https://github.com/vehrka/coursera_dataviz/wiki>`_ for the Assets:
 
 * Assignements
-* Codebook
-* Workbook
+* `Codebook <https://github.com/vehrka/coursera_dataviz/wiki/Codebook>`_
+* `Worklog <https://github.com/vehrka/coursera_dataviz/wiki/Worklog>`_
 
 You can contact me via:
 
